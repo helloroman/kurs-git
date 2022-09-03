@@ -1,0 +1,2 @@
+Lesson 4.
+Explain how 4 areas in Git works
