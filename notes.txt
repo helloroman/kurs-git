@@ -1,2 +1,10 @@
 Lesson 4.
 Explain how 4 areas in Git works
+
+
+
+-------
+external resources
+-------
+1. Git documentation
+https://git-scm.com/doc
