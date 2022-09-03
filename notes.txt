@@ -8,3 +8,5 @@ external resources
 -------
 1. Git documentation
 https://git-scm.com/doc
+2. GitHub documentation
+https://docs.github.com/en
