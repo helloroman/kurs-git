@@ -1,7 +1,8 @@
 Lesson 4.
 Explain how 4 areas in Git works
 
-
+Lesson 7.
+GUI for GIT in Webstorm
 
 -------
 external resources
