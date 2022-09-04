@@ -1,4 +1,3 @@
-1. VS Code
-2. PowerShell
-3. Windows
-4. GIT
+1. iTerm 2
+2. Webstorm
+3. ZSH shell
