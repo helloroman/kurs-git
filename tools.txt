@@ -1,3 +1,7 @@
 1. iTerm 2
 2. Webstorm
 3. ZSH shell
+4. GIT
+5. Screenflow
+6. Reflector
+7. iPad
